@@ -1,3 +1,4 @@
+![CNC Machine](cnc-machine.jpg)
 # CNC Pencil Writing Machine
 
 A two-axis CNC machine built mostly from scratch — wood frame, 
