@@ -1,4 +1,4 @@
-![CNC Machine](/cnc-machine.jpg)
+![CNC Machine](cnc-machine.jpg)
 
 # CNC Pencil Writing Machine
 
